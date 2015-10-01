@@ -1,0 +1,8 @@
+tag,info1, info 2, foo, bar, scan date
+1,asdf,fs,swer,cv,
+123,a,b,c,d,
+12345,asdf,,sdf,,
+2,,,,,
+99,,,,,
+3,,,,,
+666,,,,,
